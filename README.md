@@ -13,6 +13,8 @@ Deployment can be done on any server.
 
 ##How To Contribute
 
+Please fork this repo 
+
 ###Copyright
 
 Copyright 2014. Git.Training
