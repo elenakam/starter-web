@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Eleni Kamenou> -- <AI researcher> -- <twitter>
 
 # THANKS
 
