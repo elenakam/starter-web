@@ -12,3 +12,7 @@ This is an example to show of different Git merges
 Deployment can be done on any server.
 
 ##How To Contribute
+
+###Copyright
+
+Copyright 2014. Git.Training
