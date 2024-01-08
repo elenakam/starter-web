@@ -10,7 +10,7 @@ This is an example to show of different Git merges
 ##Deployment
 
 Deployment can be done on any server.
-More and more text
+More and more text. thsi is more text added for rebasing example from myfeature branch too.
 
 ##How To Contribute
 
