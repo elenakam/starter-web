@@ -10,6 +10,7 @@ This is an example to show of different Git merges
 ##Deployment
 
 Deployment can be done on any server.
+More and more text
 
 ##How To Contribute
 
