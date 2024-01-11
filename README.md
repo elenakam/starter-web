@@ -11,6 +11,7 @@ This is an example to show of different Git merges
 
 Deployment can be done on any server.
 More and more text. thsi is more text added for rebasing example from myfeature branch too.
+This is a stash change I added on purpose
 
 ##How To Contribute
 
